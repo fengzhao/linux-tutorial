@@ -4,7 +4,7 @@ module.exports = {
   title: 'Linux 系统教程（笔记）',
   description: 'linux 系统教程学习笔记',
   //base: '/linux-tutorial/', // gh-page 中是增加了项目名
-  dest: 'build/.vuepress/dist',  // build 时构建的文件放在那里？
+  //dest: 'build/.vuepress/dist',  // build 时构建的文件路径
   host: 'localhost', // dev 的域名
   port: 8080, // dev 的端口
   ga: 'UA-125573163-1', // 添加 ga 统计，需要使用你自己的 ga 标识
