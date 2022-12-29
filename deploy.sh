@@ -13,7 +13,7 @@ yarn docs:build
 cd build/.vuepress/dist
 
 # 如果是发布到自定义域名
-echo 'linux-tutorial.fengzhao.wiki' > CNAME
+echo 'linux-tutorial.fengzhao.me' > CNAME
 
 git init
 git add -A
